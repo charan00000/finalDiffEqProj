@@ -1,3 +1,7 @@
+"""
+The following code generates parameters for set of lotka volterra equations given data from polar bear and ringed seal populations in the year 2019 from months May to November, as given by the following links
+"""
+
 #seal populations: https://www.gbif.org/occurrence/charts?taxon_key=5219369&year=2019
 #polar bear populations: https://www.gbif.org/occurrence/charts?taxon_key=2433451&year=2019
 
