@@ -13,7 +13,7 @@ Phase plots arent supported for graphs with
 method = "time"
 
 
-#edit parameters, initial conditions here
+#edit parameters, initial conditions here. comment/uncomment out presets
 """
 #generic values, sample A
 file_name = "Simulation_A_Time_Plot.png"
